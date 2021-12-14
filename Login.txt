@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Inicio login
 Validação de usuario
 Final login
+=======
+Esse é o teste de Login
+Funcionalidade de Login OK
+>>>>>>> origin/develop
